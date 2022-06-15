@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954541686332",
+    "project_id": "spotify-da7d5",
+    "storage_bucket": "spotify-da7d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954541686332:android:31cd12f02f0dc6aefd0d39",
+        "android_client_info": {
+          "package_name": "com.vantula.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954541686332-cev30lnk597qu68udb5l91cpl35r7toi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlABoB-2aGF7MEGhaRiPTfa_AAUBf0q7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954541686332-cev30lnk597qu68udb5l91cpl35r7toi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
