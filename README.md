@@ -1,6 +1,7 @@
 # Spotify
 
-Простое приложение Spotify, которое берет музыку с Firestore. Использованы Firebase, Coroutines, Dagger, Material Desing, Glide, Navigation, Exoplayer
+Простое приложение Spotify, которое берет музыку с Firestore. Играет так же с выключенным экраном. Переворот переживает :)
+Использованы Firebase, Coroutines, Dagger, Material Desing, Glide, Navigation, Exoplayer
 
 ![ezgif-2-42103b4ca5](https://user-images.githubusercontent.com/63146384/173858203-dfe868f6-94fa-498a-b717-b7e18c851554.gif)
 ![photo_2022-06-15_17-37-25](https://user-images.githubusercontent.com/63146384/173858111-315e6a6f-64cc-41dd-9b5a-1a7a20ae4e25.jpg)
